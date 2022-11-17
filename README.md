@@ -11,3 +11,8 @@ I used <a href="https://pokeapi.co/"> PokeAPI </a> to get all of the images for 
 ## Thoughts
 <img align="right" alt="PokeBall" width="200px" style="padding-left:30px;" src="https://i.kym-cdn.com/photos/images/original/000/931/929/ac7.gif">
 This was a fun project to learn a little about APIs and to get some good practice with HTML structure and using CSS to make it look how you want. I'd recommend it to anyone starting off in Web Development. A great additional place to learn about web page structure, specifically flex boxes, is <a href="https://flexboxfroggy.com/"> Flexbox Froggy </a> I hope this was useful and good luck with your own projects!
+
+---
+
+## What does it look like?
+<img align='center' alt='demo' src='images/demo.png'>
