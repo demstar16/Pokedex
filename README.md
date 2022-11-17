@@ -15,4 +15,4 @@ This was a fun project to learn a little about APIs and to get some good practic
 ---
 
 ## What does it look like?
-<img align='center' alt='demo' src='images/demo.png'>
+<img align='center' alt='demo' src='images/demo1.png'>
